@@ -1,1 +1,0 @@
-/home/nate/Documents/Code/rust-mastery/target/release/lecture_5: /home/nate/Documents/Code/rust-mastery/lecture_5/src/main.rs /home/nate/Documents/Code/rust-mastery/lecture_5/src/manifest.rs /home/nate/Documents/Code/rust-mastery/lecture_5/src/plan.rs /home/nate/Documents/Code/rust-mastery/lecture_5/src/run.rs
