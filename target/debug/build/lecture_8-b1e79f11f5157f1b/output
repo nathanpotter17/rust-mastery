@@ -1,0 +1,2 @@
+cargo::rerun-if-changed=shaders/basic.vert
+cargo::rerun-if-changed=shaders/basic.frag

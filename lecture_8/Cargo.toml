@@ -1,0 +1,10 @@
+[package]
+name = "lecture_8"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# Vulkan bindings. "linked" links the Vulkan loader at build time, so Entry::linked() needs no dlopen.
+ash = { version = "0.38", features = ["linked"] }
+# SDL3, compiled from its C source by the crate's build script (CMake) and linked statically.
+sdl3 = { version = "0.20", features = ["build-from-source-static"] }

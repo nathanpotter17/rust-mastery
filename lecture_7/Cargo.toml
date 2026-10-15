@@ -1,0 +1,9 @@
+[package]
+name = "lecture_7"
+version = "0.1.0"
+edition = "2024"
+
+# build.rs runs before the crate compiles. Its dependencies are build-only: neither ends up in lecture_7 itself.
+[build-dependencies]
+bindgen = "0.73"
+cc = "1"

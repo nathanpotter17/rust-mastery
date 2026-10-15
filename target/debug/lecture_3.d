@@ -1,0 +1,1 @@
+/home/nate/Documents/Code/rust-mastery/target/debug/lecture_3: /home/nate/Documents/Code/rust-mastery/lecture_3/src/grid.rs /home/nate/Documents/Code/rust-mastery/lecture_3/src/main.rs /home/nate/Documents/Code/rust-mastery/lecture_3/src/patterns.rs
